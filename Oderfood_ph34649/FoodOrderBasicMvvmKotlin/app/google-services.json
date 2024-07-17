@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1007988125415",
+    "firebase_url": "https://oderfoodmd-default-rtdb.firebaseio.com",
+    "project_id": "oderfoodmd",
+    "storage_bucket": "oderfoodmd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007988125415:android:aece2c891d450a33a6fc42",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb2EpRJ92pbvrsglYtM6VxR_sJtaNgvCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

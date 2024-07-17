@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MD CINEMA FROM NAM TU LIEM</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+
+    <string name="movie_hint">Name…</string>
+</resources>

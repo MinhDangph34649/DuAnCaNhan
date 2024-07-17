@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "572627067103",
+    "firebase_url": "https://cinemaph34649-default-rtdb.firebaseio.com",
+    "project_id": "cinemaph34649",
+    "storage_bucket": "cinemaph34649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572627067103:android:1441d2250b9b474f02c96a",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNOp2E-Fma92TpGDbaL-rEVNQBZ2b7e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
